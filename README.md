@@ -17,6 +17,9 @@ Servidor:
 Ejecuta la aplicación en el modo de desarrollo.\
 Abre [http://localhost:3000](http://localhost:3000/api/items/) para visualizarlo en tu navegador.
 
+### `Como esta app ejecuta localmente` 🔧
+Instala la extension CORS en tu navegador de preferencia
+
 ## Autora ✒️🙋‍♀️
   La autora de este proyecto es Dariana Gómez Reyes https://github.com/Darigo30
 
